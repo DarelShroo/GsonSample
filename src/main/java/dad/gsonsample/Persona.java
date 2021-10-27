@@ -1,4 +1,4 @@
-package dad.maven.gson.gsonsample;
+package dad.gsonsample;
 
 public class Persona {
     String nombre;

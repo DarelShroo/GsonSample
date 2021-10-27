@@ -1,4 +1,4 @@
-package dad.maven.gson.gsonsample;
+package dad.gsonsample;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
